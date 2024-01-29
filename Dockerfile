@@ -7,7 +7,6 @@ WORKDIR $APP_ROOT
 COPY app.js .
 COPY LICENSE .
 COPY package.json .
-COPY build.txt .
 COPY views ./views
 COPY public ./public
 
