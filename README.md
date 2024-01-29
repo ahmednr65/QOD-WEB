@@ -1,6 +1,6 @@
 # qod-web
 
-Quote of the Day web front end
+Quote of the Day web front end ..
 
 ### Ports
 This web service listens on port `8080`. Please set the service for this deployment to use port 8080, and to open any route or ingress to use this port too. This is the default for deployments through OpenShift.
